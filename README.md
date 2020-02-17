@@ -1,2 +1,2 @@
-# calculator.github.io
+# Кристина Борис
 My first calculator
